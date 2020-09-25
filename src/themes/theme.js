@@ -5,7 +5,7 @@ export default {
     code: "Victor Mono, monospace",
   },
   colors: {
-    main1: "hsl(96,65%,57%)",
+    main1: "hsl(96,65%,27%)",
     main2: "hsl(96,65%,92%)",
     dark1: "hsl(215,3%,14%)",
     dark2: "hsl(215,3%,28%)",
