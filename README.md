@@ -1,5 +1,12 @@
+<!-- To run this page you need to run the following in your terminal if you have not already done so -->
+<!-- 1. Make sure you're in the same directory as the project -->
+<!-- 2. Run "npm init" to get the necessary packages -->
+<!-- 3. Run "gatsby develop" to get the site running at you local port -->
+
 <!-- Se samband och värdera alternativa lösningar vid val av programmeringsteknik vid utveckling av dynamiska webbplatser  -->
-<!--  -->
+<!-- Jag är sedan tidigare enbart bekant med Vue.js som utvecklingverktyg men kan se flera likheter i hur ansvarsområdena fördlas -->
+<!-- mellan de olika komponenterna, men framförallt skillanden mellan uppdelningen av element och komponenter slog mig som en aning -->
+<!-- till en början. Det har därmed varit en lärorik insikt att för första gången personligen jämföra verktygen på ett mer grundligt sätt. -->
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
