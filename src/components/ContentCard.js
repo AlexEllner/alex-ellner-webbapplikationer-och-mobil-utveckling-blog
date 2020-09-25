@@ -2,7 +2,7 @@ import React from "react"
 import { CardWrapper, P, H2 } from "../elements"
 import { Button } from "../components"
 
-export const ContentCard = ({ date, title, excerpt, slug }) => {
+export const ContentCard = ({ featureImage, date, title, excerpt, slug }) => {
   return (
     <CardWrapper>
       <H2 textAlign="flex-start" margin="0 0 1rem 0">

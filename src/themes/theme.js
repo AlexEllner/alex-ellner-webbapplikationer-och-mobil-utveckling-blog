@@ -9,8 +9,8 @@ export default {
     main2: "hsl(96,65%,92%)",
     dark1: "hsl(215,3%,14%)",
     dark2: "hsl(215,3%,28%)",
-    dark3: "hsl(215,3%,66%)",
-    light1: "hsl(50,0%,95%)",
+    dark3: "hsl(215,3%,46%)",
+    light1: "hsl(86,88%,85%)",
     light2: "hsl(50,0%,97%)",
   },
   breakpoints: {
