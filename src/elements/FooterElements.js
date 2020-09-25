@@ -3,9 +3,9 @@ import styled from "styled-components"
 export const FooterWrapper = styled.footer`
   grid-column: 2 / span 12;
   min-height: 11.25rem;
-  padding: 3rem 0;
+  padding: 1rem 0;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: flex-start;
 
   @media ${props => props.theme.breakpoints.tablet} {
@@ -15,18 +15,18 @@ export const FooterWrapper = styled.footer`
 
 export const FooterSocialWrapper = styled.div`
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  text-align: center;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  text-align: flex-start;
 
   p {
-    text-align: center;
+    text-align: flex-start;
     flex: 0 0 100%;
   }
 `
 
 export const FooterSocialIcons = styled.div`
-  flex: 0 0 100%;
+  flex: 0 0 50%;
   margin-bottom: 2rem;
 
   img {
