@@ -25,7 +25,7 @@ const allPosts = ({ pageContext, data }) => {
       <FeatureImage />
       <Content>
         <H1 textAlign="center" margin="0 0 1rem 0">
-          Elit rhoncus tellus proin parturient.
+          Forest Life
         </H1>
         <P color="dark2" textAlign="center">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing

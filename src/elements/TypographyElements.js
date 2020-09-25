@@ -1,5 +1,7 @@
+// Formatting for custom tags
 import styled from "styled-components"
 
+// Formatting for custom p tag
 export const P = styled.p`
   margin: ${props => (props.margin ? props.margin : 0)};
   font-size: ${props => {
@@ -56,7 +58,7 @@ export const P = styled.p`
   }};
   text-align: ${props => (props.textAlign ? props.textAlign : "left")};
 `
-
+// Formatting for custom h1 tag
 export const H1 = styled.h1`
   font-size: 2.25rem;
   line-height: 2.5rem;
@@ -77,10 +79,11 @@ export const H1 = styled.h1`
     }
   }};
   font-weight: 400;
+  text-decoration: none;
   text-align: ${props => (props.textAlign ? props.textAlign : "left")};
   margin: ${props => (props.margin ? props.margin : 0)};
 `
-
+// Formatting for custom h2 tag
 export const H2 = styled.h2`
   font-size: 1.5rem;
   line-height: 1.875rem;

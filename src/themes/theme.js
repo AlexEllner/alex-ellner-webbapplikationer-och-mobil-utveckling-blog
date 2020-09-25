@@ -1,16 +1,17 @@
+// Fonts and page formatting
 export default {
   fonts: {
-    main: "Helvetica, sans-serif",
-    code: "Roboto Mono, monospace",
+    main: "Cairo, sans-serif",
+    code: "Victor Mono, monospace",
   },
   colors: {
-    main1: "hsl(196,65%,57%)",
-    main2: "hsl(196,65%,92%)",
-    dark1: "hsl(225,3%,14%)",
-    dark2: "hsl(225,3%,28%)",
-    dark3: "hsl(225,3%,66%)",
-    light1: "hsl(0,0%,95%)",
-    light2: "hsl(0,0%,97%)",
+    main1: "hsl(96,65%,57%)",
+    main2: "hsl(96,65%,92%)",
+    dark1: "hsl(215,3%,14%)",
+    dark2: "hsl(215,3%,28%)",
+    dark3: "hsl(215,3%,66%)",
+    light1: "hsl(50,0%,95%)",
+    light2: "hsl(50,0%,97%)",
   },
   breakpoints: {
     mobile: "only screen and (max-width: 50rem)",
